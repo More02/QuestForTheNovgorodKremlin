@@ -8,17 +8,17 @@
 <img src="Images/novg_11.jpg" width = 900/>
 
 |<img src="Images/novg_1.jpg" width = 250/>|
-<img src="Images/novg_2.jpg" width = 250/>|
-<img src="Images/novg_3.jpg" width = 250/>|
-<img src="Images/novg_4.jpg" width = 250/>|
 <img src="Images/novg_5.jpg" width = 250/>|
 <img src="Images/novg_6.jpg" width = 250/>|
 <img src="Images/novg_7.jpg" width = 250/>|
 <img src="Images/novg_8.jpg" width = 250/>|
 <img src="Images/novg_9.jpg" width = 250/>|
 <img src="Images/novg_10.jpg" width = 250/>|
-<img src="Images/novg_12.jpg" width = 250/>|
+<img src="Images/novg_3.jpg" width = 250/>|
+<img src="Images/novg_2.jpg" width = 250/>|
 <img src="Images/novg_13.jpg" width = 250/>|
+<img src="Images/novg_12.jpg" width = 250/>|
+<img src="Images/novg_4.jpg" width = 250/>|
 
 
 
