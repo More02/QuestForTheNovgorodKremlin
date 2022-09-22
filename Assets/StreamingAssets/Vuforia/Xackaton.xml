@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="qcar_config.xsd">
+  <Tracking>
+    <ImageTarget name="chit" size="2.000000 2.016705" />
+    <ImageTarget name="golub" size="2.000000 2.017153" />
+    <ImageTarget name="most_metka" size="2.000000 2.000000" />
+    <ImageTarget name="granovitaya" size="2.000000 2.000000" />
+    <ImageTarget name="vrata" size="2.000000 2.015790" />
+    <ImageTarget name="dergavin" size="2.000000 2.017421" />
+    <ImageTarget name="krest" size="2.000000 2.017268" />
+    <ImageTarget name="mtkaArka" size="2.000000 2.016949" />
+  </Tracking>
+</QCARConfig>
